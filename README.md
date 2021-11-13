@@ -1,0 +1,1 @@
+# spring-hateoas-maven-spring-data-rest
